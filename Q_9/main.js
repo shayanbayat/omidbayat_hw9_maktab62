@@ -1,0 +1,5 @@
+let calculator = require('./medule')
+console.log(calculator.sum(5,2))
+console.log(calculator.sub(5,2))
+console.log(calculator.mul(5,2))
+console.log(calculator.div(5,2))
